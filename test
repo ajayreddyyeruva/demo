@@ -1,0 +1,8 @@
+{
+   "AvailabilityZone": "us-east-1c",
+   "AvailableIpAddressCount": 7444,
+   "CidrBlock": "100.173.138.0/19",
+   "DefaultForAz": false,
+   "MapPublicIpOnLaunch": false,
+   -40,7 +40,7 @@
+ }
